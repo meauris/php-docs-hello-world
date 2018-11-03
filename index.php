@@ -1,3 +1,8 @@
-<?php
-
-echo "Hello World!";
+<html>
+ <head>
+  <title>PHP Hello World / System Info</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; phpinfo(); ?> 
+ </body>
+</html>
